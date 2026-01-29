@@ -1,0 +1,23 @@
+﻿## RECSRecommendations Upload File,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.destinationCode,entity.sourceCode,entity.currency,entity.language,entity.sku,entity.date
+RUH-LHR-EN,London,riyadhair:kingdom-of-saudi-arabia,Next stop: London,https://s7g10.scene7.com/is/image/aviationservices/london,2028,/discover-riyadh/diriyah,5000,0,LHR,RUH,SAR,en,RUH-LHR,2026-03-19T00:00:00Z
+RUH-DXB-EN,Dubai,riyadhair:kingdom-of-saudi-arabia,Coming Soon: Dubai,https://s7g10.scene7.com/is/image/aviationservices/dubai,418,/discover-riyadh/diriyah,5000,0,DXB,RUH,SAR,en,RUH-DXB,2026-03-19T00:00:00Z
+RUH-CAI-EN,Cairo,riyadhair:kingdom-of-saudi-arabia,Coming Soon: Cairo,https://s7g10.scene7.com/is/image/aviationservices/cairo,655,/discover-riyadh/diriyah,5000,0,CAI,RUH,SAR,en,RUH-CAI,2026-03-19T00:00:00Z
+RUH-BOM-EN,Bombay,riyadhair:kingdom-of-saudi-arabia,Coming Soon: Bombay,https://s7g10.scene7.com/is/image/aviationservices/bombay,809,/discover-riyadh/diriyah,5000,0,BOM,RUH,SAR,en,RUH-BOM,2026-03-19T00:00:00Z
+RUH-LHR-AR,لندن,riyadhair:kingdom-of-saudi-arabia,المحطة التالية: لندن,https://s7g10.scene7.com/is/image/aviationservices/london,2028,/discover-riyadh/diriyah,5000,0,LHR,RUH,SAR,ar,RUH-LHR,2026-03-19T00:00:00Z
+RUH-DXB-AR,دبي,riyadhair:kingdom-of-saudi-arabia,قريباً: دبي,https://s7g10.scene7.com/is/image/aviationservices/dubai,418,/discover-riyadh/diriyah,5000,0,DXB,RUH,SAR,ar,RUH-DXB,2026-03-19T00:00:00Z
+RUH-CAI-AR,القاهرة,riyadhair:kingdom-of-saudi-arabia,قريباً: القاهرة,https://s7g10.scene7.com/is/image/aviationservices/cairo,655,/discover-riyadh/diriyah,5000,0,CAI,RUH,SAR,ar,RUH-CAI,2026-03-19T00:00:00Z
+RUH-BOM-AR,بومباي,riyadhair:kingdom-of-saudi-arabia,قريبًا: بومباي,https://s7g10.scene7.com/is/image/aviationservices/bombay,809,/discover-riyadh/diriyah,5000,0,BOM,RUH,SAR,ar,RUH-BOM,2026-03-19T00:00:00Z
+LHR-RUH-EN,Riyadh,,Next stop: Riyadh,https://s7g10.scene7.com/is/image/aviationservices/riyadh,447,/discover-riyadh/diriyah,5000,0,RUH,LHR,GBP,en,LHR-RUH,2026-03-19T00:00:00Z
+DXB-RUH-EN,Dubai,,Coming Soon: Dubai,https://s7g10.scene7.com/is/image/aviationservices/dubai,358,/discover-riyadh/diriyah,5000,0,DXB,LHR,GBP,en,LHR-DXB,2026-03-19T00:00:00Z
+CAI-RUH-EN,Cairo,,Coming Soon: Cairo,https://s7g10.scene7.com/is/image/aviationservices/cairo,322,/discover-riyadh/diriyah,5000,0,CAI,LHR,GBP,en,LHR-CAI,2026-03-19T00:00:00Z
+BOM-RUH-EN,Bombay,,Coming Soon: Bombay,https://s7g10.scene7.com/is/image/aviationservices/bombay,440,/discover-riyadh/diriyah,5000,0,BOM,LHR,GBP,en,LHR-BOM,2026-03-19T00:00:00Z
+LHR-RUH-AR,الرياض,,المحطة التالية: الرياض,https://s7g10.scene7.com/is/image/aviationservices/riyadh,447,/discover-riyadh/diriyah,5000,0,RUH,LHR,GBP,ar,LHR-RUH,2026-03-19T00:00:00Z
+DXB-RUH-AR,دبي,,قريباً: دبي,https://s7g10.scene7.com/is/image/aviationservices/dubai,358,/discover-riyadh/diriyah,5000,0,DXB,LHR,GBP,ar,LHR-DXB,2026-03-19T00:00:00Z
+CAI-RUH-AR,القاهرة,,قريباً: القاهرة,https://s7g10.scene7.com/is/image/aviationservices/cairo,322,/discover-riyadh/diriyah,5000,0,CAI,LHR,GBP,ar,LHR-CAI,2026-03-19T00:00:00Z
+BOM-RUH-AR,بومباي,,قريبًا: بومباي,https://s7g10.scene7.com/is/image/aviationservices/bombay,440,/discover-riyadh/diriyah,5000,0,BOM,LHR,GBP,ar,LHR-BOM,2026-03-19T00:00:00Z
